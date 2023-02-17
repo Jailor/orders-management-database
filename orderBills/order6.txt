@@ -1,0 +1,12 @@
+-------------------------------------------------
+BILL for order with id 6
+-------------------------------------------------
+Client:Keely Rowland
+id:3
+address:2665 Lacus St.
+phone number:0732068710
+-------------------------------------------------
+Ordered product is Reeses pieces with id 3 at a price of 30 per piece.
+-------------------------------------------------
+5 units were ordered with a total price of 150
+-------------------------------------------------

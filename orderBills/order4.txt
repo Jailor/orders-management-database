@@ -1,0 +1,12 @@
+-------------------------------------------------
+BILL for order with id 4
+-------------------------------------------------
+Client:andrei
+id:1
+address:aici
+phone number:0724251358
+-------------------------------------------------
+Ordered product is myprod with id 46 at a price of 123 per piece.
+-------------------------------------------------
+50 units were ordered with a total price of 6150
+-------------------------------------------------

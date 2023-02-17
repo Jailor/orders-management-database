@@ -1,0 +1,12 @@
+-------------------------------------------------
+BILL for order with id 2
+-------------------------------------------------
+Client:Sydnee Nielsen
+id:2
+address:Ap #212-9204 Risus. Av.
+phone number:0749680153
+-------------------------------------------------
+Ordered product is Red Vines with id 2 at a price of 20 per piece.
+-------------------------------------------------
+20 units were ordered with a total price of 400
+-------------------------------------------------

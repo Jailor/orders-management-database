@@ -1,0 +1,12 @@
+-------------------------------------------------
+BILL for order with id 7
+-------------------------------------------------
+Client:Anthony Bell
+id:5
+address:303-6663 Etiam Street
+phone number:0763188045
+-------------------------------------------------
+Ordered product is Paste PT with id 48 at a price of 12 per piece.
+-------------------------------------------------
+14 units were ordered with a total price of 168
+-------------------------------------------------

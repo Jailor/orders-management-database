@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox alignment="CENTER" prefHeight="192.0" prefWidth="273.0" spacing="20.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="andrei.Controller.MainController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+
+    <Label text="Main menu">
+      <font>
+         <Font name="System Bold" size="16.0" />
+      </font></Label>
+    <Button onAction="#onClientTableClick" prefWidth="90.0" text="Client Table" />
+   <Button onAction="#onProductTableClick" prefWidth="90.0" text="Product Table" />
+   <Button onAction="#onOrdersTableClick" prefWidth="90.0" text="Orders Table" />
+</VBox>

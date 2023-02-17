@@ -1,0 +1,12 @@
+-------------------------------------------------
+BILL for order with id 1
+-------------------------------------------------
+Client:andrei
+id:1
+address:aici
+phone number:0724251358
+-------------------------------------------------
+Ordered product is Skittles with id 1 at a price of 10 per piece.
+-------------------------------------------------
+10 units were ordered with a total price of 100
+-------------------------------------------------
